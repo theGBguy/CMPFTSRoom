@@ -2,6 +2,12 @@
 
 A simple demonstration of Room database with search functionality built using Compose Multiplatform.
 
+## Screenshots
+
+![App Screenshot](screenshots/simulator_screenshot.png)
+
+*The app running on iOS simulator showing the search functionality and article list*
+
 ## Features
 
 - **Room Database Integration**: Uses Android Room for local data persistence
